@@ -1,8 +1,39 @@
 
 track Amniotic_ectoderm
 bigDataUrl https://raw.githubusercontent.com/khamashima/m6A-CT2_hub/main/mm10/Amniotic_ectoderm.bb
-shortLabel Amniotic_ectoderm sites
-longLabel m6A modification sites in Amniotic_ectoderm
+shortLabel Amniotic_ectoderm
+longLabel m6A-CT2-identified sites in Amniotic_ectoderm
 type bigBed 6
 visibility dense
 
+
+track Amniotic_squamous_epithelial_cells
+bigDataUrl https://raw.githubusercontent.com/khamashima/m6A-CT2_hub/main/mm10/Amniotic_squamous_epithelial_cells.bb
+shortLabel Amniotic_squamous_epithelial_cells
+longLabel m6A-CT2-identified sites in Amniotic_squamous_epithelial_cells
+type bigBed 6
+visibility dense
+
+
+track Anterior_floor_plate
+bigDataUrl https://raw.githubusercontent.com/khamashima/m6A-CT2_hub/main/mm10/Anterior_floor_plate.bb
+shortLabel Anterior_floor_plate
+longLabel m6A-CT2-identified sites in Anterior_floor_plate
+type bigBed 6
+visibility dense
+
+
+track Branchial_arch_epithelium
+bigDataUrl https://raw.githubusercontent.com/khamashima/m6A-CT2_hub/main/mm10/Branchial_arch_epithelium.bb
+shortLabel Branchial_arch_epithelium
+longLabel m6A-CT2-identified sites in Branchial_arch_epithelium
+type bigBed 6
+visibility dense
+
+
+track Branchial_arch_mesenchyme
+bigDataUrl https://raw.githubusercontent.com/khamashima/m6A-CT2_hub/main/mm10/Branchial_arch_mesenchyme.bb
+shortLabel Branchial_arch_mesenchyme
+longLabel m6A-CT2-identified sites in Branchial_arch_mesenchyme
+type bigBed 6
+visibility dense
