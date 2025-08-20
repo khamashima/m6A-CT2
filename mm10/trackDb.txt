@@ -1,6 +1,6 @@
 
 track Amniotic_ectoderm
-bigDataUrl /media/kiyo/data/Kiyo/Analysis/m6A/scMultiome/TallEmbryo_ATAC/deepSRAMP/bigbed/Amniotic_ectoderm.bb
+bigDataUrl https://raw.githubusercontent.com/khamashima/m6A-CT2_hub/main/mm10/Amniotic_ectoderm.bb
 shortLabel Amniotic_ectoderm sites
 longLabel m6A modification sites in Amniotic_ectoderm
 type bigBed 6
