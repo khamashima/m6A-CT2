@@ -1,0 +1,5 @@
+hub m6A-CT2_Hub
+shortLabel RNA mods
+longLabel RNA modification sites and signals across cell types in post-implantation development
+genomesFile genomes.txt
+email hamashi1117@gmail.com
