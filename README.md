@@ -1,4 +1,4 @@
-# Single-cell m6A-CT2 Atlas of Mouse Post-implantation Development
+# Single-cell m6A-CT2 Atlas
 
 This repository accompanies the paper:
 
