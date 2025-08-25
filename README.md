@@ -1,4 +1,4 @@
-# Single-cell m6A-CT2 Atlas
+# Single-cell m6A Atlas
 
 This repository accompanies the paper:
 
