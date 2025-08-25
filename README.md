@@ -1,17 +1,8 @@
-# Single-cell m6A-CT2
+# Single-cell m6A-CT2 Atlas of Mouse Post-implantation Development
 
 This repository accompanies the paper:
 
 **Single-cell m6A-CT2 decodes dynamic epitranscriptomic programs that orchestrate cell fates throughout development**
-
----
-
-## Lead Author
-**Kiyofumi HAMASHIMA**  
-Cell Fate Engineering and Therapeutics Lab  
-Cell Biology and Therapies Division  
-Institute of Molecular and Cell Biology (IMCB)  
-Agency for Science, Technology and Research (A*STAR), Singapore  
 
 ---
 
@@ -41,3 +32,12 @@ Agency for Science, Technology and Research (A*STAR), Singapore
 
 ## Availability
 The complete dataset will be publicly accessible **upon publication**.  
+
+---
+
+## Lead Author
+**Kiyofumi HAMASHIMA**  
+Cell Fate Engineering and Therapeutics Lab  
+Cell Biology and Therapies Division  
+Institute of Molecular and Cell Biology (IMCB)  
+Agency for Science, Technology and Research (A*STAR), Singapore  
