@@ -10,16 +10,16 @@ This repository accompanies the paper:
 
 - **Broad Single Cell Portal**  
   Interactive exploration of the data:  
-  👉 [https://singlecell.broadinstitute.org/single_cell/study/SCP3260](https://singlecell.broadinstitute.org/single_cell/study/SCP3260)
+   [https://singlecell.broadinstitute.org/single_cell/study/SCP3260](https://singlecell.broadinstitute.org/single_cell/study/SCP3260)
 
 - **UCSC Genome Browser Hub**  
   Users can view the tracks by selecting **“My Data” → “Track Hubs”**, clicking **“Add Hub”**, and entering the following URL:  
-  👉 [https://raw.githubusercontent.com/khamashima/m6A-CT2/main/hub.txt](https://raw.githubusercontent.com/khamashima/m6A-CT2/main/hub.txt)  
+   [https://raw.githubusercontent.com/khamashima/m6A-CT2/main/hub.txt](https://raw.githubusercontent.com/khamashima/m6A-CT2/main/hub.txt)  
   This allows browsing of m6A modification sites across cell types.  
 
 - **GEO Accession**  
   Raw data deposited in GEO:  
-  👉 [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE259263](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE259263)
+   [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE259263](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE259263)
 
 ---
 
