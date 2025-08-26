@@ -1,4 +1,8 @@
-# Single-cell m6A Atlas
+<p align="center">
+  <img width="200"  src="https://github.com/jinworks/CellChat/blob/main/CellChat_Logo.png">
+</p>
+
+# Single-cell m6A-CT2
 
 This repository accompanies the paper:
 
