@@ -1,4 +1,4 @@
-# Single-cell m6A-CT2
+# Single-cell m6A atlas
 
 This repository accompanies the paper:
 
@@ -6,7 +6,7 @@ This repository accompanies the paper:
 
 ---
 
-## Data Access
+## Mouse post-implantation development
 
 - **Broad Single Cell Portal**  
   Interactive exploration of the data:  
