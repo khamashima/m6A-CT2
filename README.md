@@ -2,7 +2,7 @@
 
 This repository accompanies the paper:
 
-**Single-cell m6A-CT2 decodes dynamic epitranscriptomic programs that orchestrate cell fates throughout development**
+**Single-cell m6A-CT2 unlocks dynamic epitranscriptomic codes of cell fate in heterogeneous tissues**
 
 ---
 
